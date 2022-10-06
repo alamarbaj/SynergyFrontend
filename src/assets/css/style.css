@@ -1,0 +1,19 @@
+.background{
+    background-color: rgb(5, 51, 77);
+    color: white;
+}
+.mybtn{
+    
+    border:none;
+    overflow-y: hidden;
+}
+.mybtn:hover{
+    border:none
+}
+.formbtn:hover{
+    background-color: rgb(5, 51, 77);
+ }
+ .formbtn{
+    background-color: rgb(5, 51, 77);
+    text-decoration: none;
+ }

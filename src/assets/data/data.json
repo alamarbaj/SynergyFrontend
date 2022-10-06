@@ -1,0 +1,36 @@
+{
+  "crudedata": [
+    {
+      "_id": "14",
+      "fname": "Nitin",
+      "lname": "Chauhan",
+      "email": "nitin@gmail.com",
+      "dsg": "Trainer",
+      "Phone": "9787686765",
+      "city": "Delhi",
+      "state": "up",
+      "id": 14
+    },
+    {
+      "_id": "15",
+      "fname": "Pawnesh",
+      "lname": "shakya",
+      "email": "pawnesh@gmail.com",
+      "dsg": "Trainer",
+      "Phone": "9787686765",
+      "city": "Delhi",
+      "state": "up",
+      "id": 15
+    },
+    {
+      "fname": "Pawnesh",
+      "lname": "Shakya",
+      "email": "pawnesh@gmail.com",
+      "dsg": "student",
+      "Phone": "9787686765",
+      "city": "Delhi",
+      "state": "up",
+      "id": 16
+    }
+  ]
+}
